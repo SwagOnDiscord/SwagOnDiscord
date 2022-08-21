@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCJZOn9Zfv_sFPY7YwuQG1dw">Youtube</a> •
-  <a href="https://twitter.com/SwagOnDiscord">Twitter</a> •
+  <a href="https://twitter.com/SwagOnDiscord">Twitter</a> 
 </p>
 
 Je suis un __développeur français__. J’aime apprendre le développement web et toutes sortes d’autres choses en ligne et je suis prêt pour des discussions et faire de nouveaux projets dev, site internet, bot, etc...
