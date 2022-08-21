@@ -14,7 +14,7 @@ Je suis un __développeur français__. J’aime apprendre le développement web 
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/SwagOnDiscord/SwagOnDiscord/blob/main/img/pack.png" />
+  <img align="center" alt="Skills" src="https://github.com/SwagOnDiscord/SwagOnDiscord/blob/main/img/langages.png" />
 </p>
 
 # My song of the moment
