@@ -19,7 +19,7 @@ Je suis un __développeur français__. J’aime apprendre le développement web 
 
 # My song of the moment
 
-[![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J?si=9594a1fe37aa4889)
+[![Spotify](https://github.com/SwagOnDiscord/SwagOnDiscord/blob/main/img/spotify.png)](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J?si=9594a1fe37aa4889)
 
 ## My last project
 
