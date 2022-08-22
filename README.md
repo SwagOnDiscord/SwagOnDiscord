@@ -36,13 +36,7 @@ Je suis un __développeur français__. J’aime apprendre le développement web 
 <h3>Github SwagOnDiscord</h3>
   <div><img src="https://komarev.com/ghpvc/?username=SwagOnDiscord&label=PROFILE+VIEWS&color=grey"/></div>
   <img src="https://github-readme-stats.vercel.app/api?username=SwagOnDiscord&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagOnDiscord&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a>
-
-
-<!-- BLOG-POST-LIST:START -->
-- [👑 AB Bot (closed) 🔐]
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 <br/>
