@@ -21,7 +21,14 @@ Je suis un __développeur français__. J’aime apprendre le développement web 
 
 [![Spotify](https://github.com/SwagOnDiscord/SwagOnDiscord/blob/main/img/spotify.png)](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J?si=9594a1fe37aa4889)
 
-## My last project
+## Discord
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/841341738358669353" target="_blank">
+      <img src="https://media.discordapp.net/attachments/990558815365779457/1011197337693077544/unknown.png">
+   </a>
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [👑 AB Bot (closed) 🔐]
